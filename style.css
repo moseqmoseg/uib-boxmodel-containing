@@ -1,0 +1,15 @@
+body {
+  font-family: "Hanalei";
+}
+
+.header {height: 100vh;}
+
+ .headerimg {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
